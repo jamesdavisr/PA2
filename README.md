@@ -1,6 +1,7 @@
 # PROGRAMMING ASSIGNMENT 2 NUMERICAL PYTHON (NUMPY)
 
 Name: **Davis, James R.**
+
 Section: **2ECE-D Date**                                              Submitted: **September 12, 2024**
 
 **I. Intended Learning Outcomes:**
