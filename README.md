@@ -13,11 +13,14 @@ In this problem, create a random 5 x 5 ndarray and store it to variable X. Norma
 # NORMALIZATION PROBLEM
 
 import numpy as np
+
 X = np.random.rand(5, 5)
 
 mean = X.mean()
 std_dev = X.std()
 
 X_normalized = (X - mean) / std_dev
+
 print("Original Array (X):")
+
 print(X)
