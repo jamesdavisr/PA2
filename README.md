@@ -2,8 +2,9 @@
 
 Name: **Davis, James R.**
 
-Section: **2ECE-D Date**                                                      Submitted: **September 12, 2024**
-                                                                              Submitted: **September 12, 2024**
+Section: **2ECE-D Date**                                                     
+
+Submitted: **September 12, 2024**
 
 **I. Intended Learning Outcomes:**
 1. To identify the codes and functions incorporated in the Numpy library
