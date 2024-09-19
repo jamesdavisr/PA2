@@ -2,7 +2,7 @@
 
 Name: **Davis, James R.**
 
-Section: **2ECE-D Date**                                              Submitted: **September 12, 2024**
+Section: **2ECE-D Date**                                                     Submitted: **September 12, 2024**
 
 **I. Intended Learning Outcomes:**
 1. To identify the codes and functions incorporated in the Numpy library
@@ -21,6 +21,7 @@ In this problem, create a random 5 x 5 ndarray and store it to variable X. Norma
 <img width="996" alt="Screen Shot 2024-09-19 at 8 49 33 AM" src="https://github.com/user-attachments/assets/44e3c5fa-5a01-4bae-b790-61d0e5d7137e">
 
 **DIVISIBLE BY 3 PROBLEM:** Create the following 10 x 10 ndarray.
+
 <img width="351" alt="Screen Shot 2024-09-19 at 8 59 02 AM" src="https://github.com/user-attachments/assets/a64edc17-96a4-426b-ab0f-a17c5c3ad2bd">
 
 which are the squares of the first 100 positive integers.
